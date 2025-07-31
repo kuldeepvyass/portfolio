@@ -34,14 +34,14 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Student", "Web-Developer", "Technical content writer","Business Analyst", "Competitive Programmer"],
+        strings: ["Software Engineer at TATA Elxsi", "WEB Developer","Data Structure and Algorithms", "Competitive Programmer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Student", "Web-Developer", "Technical content writer", "Business Analyst", "Competitive Programmer"],
+        strings: ["Software Engineer at TATA Elxsi", "WEB Developer","Data Structure and Algorithms", "Competitive Programmer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
